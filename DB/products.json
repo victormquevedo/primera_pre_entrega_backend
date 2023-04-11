@@ -2,12 +2,12 @@
     {
         "id": 1,
         "title": "product1",
-        "description": "roja y dulce",
+        "description": "roja y azul",
         "code": "1",
         "price": 50,
         "status": true,
         "stock": 21,
-        "category": "frutas",
+        "category": "remeras",
         "thumbnail": [
             "none"
         ]
@@ -15,12 +15,12 @@
     {
         "id": 2,
         "title": "product2",
-        "description": "roja y dulce",
+        "description": "roja y verde",
         "code": "2",
-        "price": 50,
+        "price": 70,
         "status": true,
-        "stock": 21,
-        "category": "frutas",
+        "stock": 25,
+        "category": "remeras",
         "thumbnail": [
             "none"
         ]
@@ -28,12 +28,12 @@
     {
         "id": 3,
         "title": "product3",
-        "description": "roja y dulce",
+        "description": "roja y violeta",
         "code": "3",
-        "price": 50,
+        "price": 21,
         "status": true,
-        "stock": 21,
-        "category": "frutas",
+        "stock": 31,
+        "category": "remeras",
         "thumbnail": [
             "none"
         ]
@@ -41,12 +41,12 @@
     {
         "id": 4,
         "title": "product4",
-        "description": "roja y dulce",
+        "description": "roja y rosa",
         "code": "4",
-        "price": 50,
+        "price": 70,
         "status": true,
-        "stock": 21,
-        "category": "frutas",
+        "stock": 53,
+        "category": "remeras",
         "thumbnail": [
             "none"
         ]
@@ -54,12 +54,12 @@
     {
         "id": 5,
         "title": "product5",
-        "description": "roja y dulce",
+        "description": "roja y marron",
         "code": "5",
-        "price": 50,
+        "price": 18,
         "status": true,
-        "stock": 21,
-        "category": "frutas",
+        "stock": 5,
+        "category": "remeras",
         "thumbnail": [
             "none"
         ]
